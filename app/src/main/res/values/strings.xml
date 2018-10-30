@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2Implicit</string>
+    <string name="visit_taruc">Visit TARUC</string>
+    <string name="show_main">Show Main</string>
+    <string name="show_dail">Show Dail</string>
+    <string name="show_sendTo">Send To</string>
+</resources>
+
+
